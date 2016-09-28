@@ -1,0 +1,12 @@
+{
+  "name": "my-demo-app",
+  "version": "0.0.0",
+  "description": "MyDemoApp",
+  "main": "app.js",
+  "author": {
+    "name": "ISYS36005"
+  },
+  "dependencies": {
+    "my-tslib": "..\\MyTSLib"
+  }
+}

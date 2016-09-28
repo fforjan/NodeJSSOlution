@@ -1,0 +1,12 @@
+{
+  "name": "my-tslib",
+  "version": "0.0.0",
+  "description": "MyTSLib",
+  "main": "index.js",
+  "author": {
+    "name": "fforjan"
+  },
+  "dependencies": {
+    "edge": "^6.5.1"
+  }
+}
