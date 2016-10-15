@@ -6,7 +6,5 @@
   "author": {
     "name": "ISYS36005"
   },
-  "dependencies": {
-    "my-tslib": "..\\MyTSLib"
-  }
+  "dependencies": {}
 }

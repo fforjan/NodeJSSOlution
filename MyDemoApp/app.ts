@@ -1,4 +1,4 @@
-﻿import MyLIb from "my-tslib";
+﻿import MyLIb from "../MyTSLib";
 
 let myLIb = new MyLIb();
 

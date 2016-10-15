@@ -267,3 +267,8 @@ __pycache__/
 # Cake - Uncomment if you are using it
 # tools/
 # tools/
+
+#in type script, ignore js
+*.js
+/MyTSLib/MyCSharpLib.dll
+*.map
