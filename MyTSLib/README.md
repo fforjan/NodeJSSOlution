@@ -1,3 +1,4 @@
 ﻿# MyTSLib
 
+Simple typescript library
 
